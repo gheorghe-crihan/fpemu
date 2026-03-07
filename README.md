@@ -31,11 +31,11 @@ mentiones explicitly that the source code for the floating point
 emulator is *NOT* offered:
 
 | Borland International, Inc. (Borland) is offering you a license
-| to the source code to the Borland C++ Runtime Library portion of
-| Borland C++ (the Source Programs), including updates that may
-| later be supplied by Borland at additional cost, *but not
-| including the source code of the 8087 emulator* or the graphics
-| library.
+|to the source code to the Borland C++ Runtime Library portion of
+|Borland C++ (the Source Programs), including updates that may
+|later be supplied by Borland at additional cost, *but not
+|including the source code of the 8087 emulator* or the graphics
+|library.
 
 ## Third-party notes
 
