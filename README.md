@@ -51,3 +51,7 @@ the need for internal QA and production tooling at Intel when
 manufacturing 8087) that was shipped as part of some Intel
 assembler and surfaced as em87 emulator on Simtelnet by someone,
 that when unpacked, produces Intel's copyright string.
+
+## Rationale
+
+It's my therapy for the Zeigarnik effect.
