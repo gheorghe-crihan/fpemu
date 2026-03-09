@@ -48,8 +48,9 @@ https://github.com/open-watcom/open-watcom-v2/blob/master/bld/fpuemu/i86/asm/emu
 Intel did have some 8087 support library providing full FPU
 emulation (should be the most precise on the planet, given
 the need for internal QA and production tooling at Intel when
-manufacturing 8087) that was shipped as part of some Intel
-assembler and surfaced as em87 emulator on Simtelnet by someone,
+manufacturing 8087) that was shipped as part of Intel ASM86
+assembler and surfaced as em87 emulator on Simtelnet by
+Ron Kimball,
 that when unpacked, produces Intel's copyright string.
 
 ## Rationale
